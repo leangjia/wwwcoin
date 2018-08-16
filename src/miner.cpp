@@ -36,8 +36,9 @@
 const double FUND_REWARD_PERCENT = 0.4; //wwwcoin
 const std::vector<std::string> vCommunityFundAddress ={
     //"WVmY6MJarh9xsoispWgWMVPj1cV3suegCW", //Team Bouns
-	"WUcTut19PyDXC3YS8Yk8sF99hgUAPf8A2X",
-	"WemzbaTQ8821FQEXzJJ71zdVsxodjgU4Mk"
+      "Wj7W1tiy6TpSoa3LJvmTLt6yuwr5aGWuSu",
+      "WQVfM1SXFXX3zmG6nkq3Rr2gwdhnwMmosh",
+      "Wja8k1bZav7mCijgGJCn2ZSJunq56pN8o8"
 }; //wwwcoin
 
 //////////////////////////////////////////////////////////////////////////////
