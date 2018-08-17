@@ -144,7 +144,8 @@ public:
 
         checkpointData = (CCheckpointData) {
             {
-                {  0, uint256S("0xf105edb021be3037c65948a7fc287ad8d0ce77602c554bba07e8ca0bc6519c29")}, //wwwcoin T.B.D
+                {  0, 	uint256S("0xf105edb021be3037c65948a7fc287ad8d0ce77602c554bba07e8ca0bc6519c29")}, //wwwcoin
+		{ 4688, uint256S("0x545081a882dd75a2a8208fa1a85333d57c6b903399d2ddece3301de42d3f6dec")}
             }
         };
 
